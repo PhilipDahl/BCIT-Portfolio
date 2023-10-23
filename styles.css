@@ -1,0 +1,42 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: black;
+    font-style: normal;
+    font-size: xx-large;
+    margin-left: 5px;
+    text-align: center;
+
+}
+p {
+    color: black;
+    line-height: 25px;
+    font-style: Normal;
+    font-size: medium;
+    margin-left: 5px;
+    margin-right: 750px;
+
+}
+h2 {
+    color: black;
+    font-style: normal;
+    font-size: x-large;
+    margin-left: 5px;
+    text-align: left;
+}
+h3 {
+    color: black;
+    font-style: normal;
+    font-size: small;
+    margin-left: 5px;
+    text-align: left;
+    border-style: solid;
+    border-width: medium;
+    width: 500px;
+}
+
+img{
+    border: 5px solid #555;
+}
